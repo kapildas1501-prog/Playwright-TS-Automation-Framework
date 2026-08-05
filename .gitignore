@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Playwright reports and generated files
+test-results/
+playwright-report/
+
+# Allure reports
+allure-results/
+allure-report/
+
+# Authentication storage
+playwright/.auth/
+
+# OS files
+.DS_Store
