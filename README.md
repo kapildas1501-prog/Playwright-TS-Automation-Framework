@@ -37,7 +37,7 @@ Playwright-TS-Automation-Framework
 │
 ├── pages
 │   ├── LoginPage.ts          # Login page locators and actions
-│       
+│   
 │
 ├── fixtures
 │   └── testFixture.ts        # Custom Playwright fixtures
